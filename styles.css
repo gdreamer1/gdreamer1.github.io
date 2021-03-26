@@ -1,13 +1,25 @@
+*{
+    margin: 0px;
+}
 body {
     background-color: peru;
-    align-items: center;
-    }
-    h1 {
-        text-emphasis-color: red ;
+    /*display: flex;*/
+}
+    
+    .card-container{
+       width: 700px;
+       display:flex;
+       text-align: center;
+       font-size: 20px;
+       background-color: lightblue;
+
     }
     
-    .info {
+    
+    .begin {
         background-color: white;
+        width: 500px;
+        height: 400px;
     }
 
     #table {
