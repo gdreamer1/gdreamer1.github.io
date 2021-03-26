@@ -1,1 +1,11 @@
- 
+body {
+    background-color: peru;
+    align-items: center;
+    }
+    h1 {
+        text-emphasis-color: red ;
+    }
+    
+    .info {
+        background-color: white;
+    }
