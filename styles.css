@@ -9,3 +9,17 @@ body {
     .info {
         background-color: white;
     }
+
+    #table {
+        background-color: indigo;
+
+    }
+
+    .middle{
+        background-color: honeydew;
+
+    }
+
+    .bottom{
+        background-color: grey;
+    }
