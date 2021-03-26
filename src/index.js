@@ -1,0 +1,1 @@
+alert ("Welcome to my site! Please feel free to explore and get to know more about me")
