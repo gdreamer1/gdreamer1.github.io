@@ -30,12 +30,21 @@ body {
         align-items: flex-start; */
         /* width: 1000px; */
     }
+    .specs{
+        display: flexbox;
+        position:fixed
+        width: 500px
+        height: 500px;
+    }
     .img{
-        width: 35%;
-        position: relative; left: 450px; top: 120px;
+        width: 25%;
+        position: relative; left: 50px; top: 10px;
         border:1px solid black;
         border-width: 10px;
-        
+        border-spacing: 100px;
+}
+.begin li {
+    font-weight: 100px bold;
 }
 
     #table {
@@ -46,15 +55,23 @@ body {
     .middle{
         background-color: honeydew;
 
+
     }
     .middle h3{
         display:flex
     }
     .middle ul {
         display: flex;
-        align-items: stretch;
+        justify-content: left;
+        justify-content: space-evenly;
+        align-items: flex-start;
+        width: 300px;
+        height: 100px;
+        padding-top: 100px;
+
     }
 
     .bottom{
         background-color: grey;
+        min-height: 30px;
     }
